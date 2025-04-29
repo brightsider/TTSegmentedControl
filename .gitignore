@@ -22,3 +22,8 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Package.resolved
